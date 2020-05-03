@@ -12,26 +12,13 @@
 
     $(document).ready(function () {
         var links = [
-            {
 
-				name: 'Facebook',
-                link: ''
-            },
-                
-            {
-                name: 'Youtube',
-                link: ''
-            },
                 
             {
                 name: 'Github',
                 link: ''
             },
 
-            {
-                name: 'Blog',
-                link: ''
-            },
 			
 			{
                 name: 'Shop',
